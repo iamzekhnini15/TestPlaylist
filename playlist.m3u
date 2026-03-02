@@ -1469,5 +1469,5 @@ https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="ZO34.nl@SD" tvg-logo="https://i.imgur.com/yiihDg6.png" group-title="Pays-Bas",ZO!34 (720p)
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:0 m3u-type="vod" group-title="VOD - FILMS" tvg-logo="https://image.tmdb.org/t/p/w500/xX7m5p2GpsD74wTux3P9P8L3X5p.jpg", Mon Super Film (2024)
+#EXTINF:-1 m3u-type="vod" group-title="VOD - FILMS" tvg-logo="https://image.tmdb.org/t/p/w500/xX7m5p2GpsD74wTux3P9P8L3X5p.jpg", Mon Super Film (2024)
 https://m90.uqload.is/3rfkia3ernw2q4drdlm7xl7ycku2xzgx7fazq2iwhmyo2mv4yitqzczpqhqa/v.mp4
